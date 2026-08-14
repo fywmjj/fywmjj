@@ -1,10 +1,10 @@
 # 😎 Hi there
 
-- 吾本名 **范耀文 (Yaowen Fan)**
-- 👨‍💻 是一名正在与 **Bug** 奋战的苦逼畜生
-- 🚀 **C++, Rust, Python, Web Full-stack, POSIX Shell, Kotlin, Java** 通吃
-- 🔭 目前正在开发 **Android 原生应用**，不爱 Electron。
-- 📫 联系我:
+- I'm **Yaowen Fan (范耀文)**
+- 👨‍💻 Just another weary code monkey locked in a perpetual battle with **Bugs**
+- 🚀 Versed in **C++, Rust, Python, Web Full-stack, POSIX Shell, Kotlin, and Java**
+- 🔭 Currently crafting **Native Android Applications** - and no, I don't do Electron
+- 📫 Reach out:
   - **[Email](mailto:maoxian666@outlook.com)**
   - **[Email (receive only)](mailto:wensang@duck.com)**
 
@@ -56,15 +56,4 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fywmjj&show_icons=true&locale=zh-cn&theme=tokyonight&cache_seconds=86400" alt="fywmjj's GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fywmjj&layout=compact&locale=zh-cn&theme=tokyonight&cache_seconds=86400" alt="fywmjj's Top Languages" />
 </p>
